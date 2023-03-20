@@ -10,5 +10,5 @@ https://user-images.githubusercontent.com/126708296/226464444-7a8a0a2f-2e1d-448f
 https://user-images.githubusercontent.com/126708296/226466393-a42985ad-88f0-4105-be1a-0e8773223088.mp4
 
 
-### Promotion for a friend's art
+### Animating a friend's art
 ![](https://github.com/kxmii/VideoEditing/blob/main/bny.gif)
