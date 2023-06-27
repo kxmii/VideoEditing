@@ -1,6 +1,6 @@
 # VideoEditing
 ### Animating a png
-![](https://github.com/kxmii/VideoEditing/blob/main/skate.gif)
+![](https://github.com/kxmii/VideoEditing/blob/main/skater.gif)
 
 ### Motion Graphic
 ![](https://github.com/kxmii/VideoEditing/blob/main/crown.gif)
