@@ -1,12 +1,12 @@
 # VideoEditing
-### Animating a png
+### Character Rigging/Animation
 ![](https://github.com/kxmii/VideoEditing/blob/main/skater.gif)
-
-### Motion Graphic
-![](https://github.com/kxmii/VideoEditing/blob/main/crown.gif)
 
 ### Animating a friend's art
 ![](https://github.com/kxmii/VideoEditing/blob/main/bny.gif)
+
+### Motion Graphic
+![](https://github.com/kxmii/VideoEditing/blob/main/crown.gif)
 
 ### Character Rigging and Typography. (unmute)
 https://user-images.githubusercontent.com/126708296/226466393-a42985ad-88f0-4105-be1a-0e8773223088.mp4
