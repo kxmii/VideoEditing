@@ -1,6 +1,6 @@
 # VideoEditing
 ### Character Rigging/Animation
-![](https://github.com/kxmii/VideoEditing/blob/main/skater.gif)
+![](https://github.com/kxmii/VideoEditing/blob/main/sk8r.gif)
 
 ### Animating a friend's art
 ![](https://github.com/kxmii/VideoEditing/blob/main/bny.gif)
