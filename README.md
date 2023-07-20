@@ -2,10 +2,8 @@
 ### Character Rigging/Animation
 ![](https://github.com/kxmii/VideoEditing/blob/main/sk8r.gif)
 
-### Animating a friend's art
+### Motion Graphics
 ![](https://github.com/kxmii/VideoEditing/blob/main/bny.gif)
-
-### Motion Graphic
 ![](https://github.com/kxmii/VideoEditing/blob/main/collection1.gif)
 ![](https://github.com/kxmii/VideoEditing/blob/main/crown.gif)
 
