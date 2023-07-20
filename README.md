@@ -7,6 +7,7 @@
 
 ### Motion Graphic
 ![](https://github.com/kxmii/VideoEditing/blob/main/crown.gif)
+![](https://github.com/kxmii/VideoEditing/blob/main/collection1.gif)
 
 ### Character Rigging and Typography. (unmute)
 https://github.com/kxmii/VideoEditing/assets/126708296/5e7bccf5-e599-4d2f-8deb-b7581388662d
