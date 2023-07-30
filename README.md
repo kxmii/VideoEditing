@@ -1,9 +1,10 @@
 # VideoEditing
 ### Character Rigging/Animation
+![](https://github.com/kxmii/VideoEditing/blob/main/bny.gif)
+
 https://github.com/kxmii/VideoEditing/assets/126708296/cc2ec994-1542-47f1-ad62-a1dedaaa26f7
 
 ![](https://github.com/kxmii/VideoEditing/blob/main/sk8r.gif)
-![](https://github.com/kxmii/VideoEditing/blob/main/bny.gif)
 ![](https://github.com/kxmii/VideoEditing/blob/main/collection1.gif)
 ![](https://github.com/kxmii/VideoEditing/blob/main/crown.gif)
 ![](https://github.com/kxmii/VideoEditing/blob/main/hk.gif)
